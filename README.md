@@ -1,2 +1,2 @@
 # hello-world
-Just another location to put stuff
+I'm doing this to become more familiar with how this all works.
